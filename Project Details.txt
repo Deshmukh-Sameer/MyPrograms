@@ -1,0 +1,30 @@
+Project Experience:
+
+Project #1	: Employee Management System
+
+Client		: BridgeSoft
+
+Environment	: Java 8, Spring Boot, ReactJS, MySQL
+
+Team Size	: 3
+
+Project Link	: https://github.com/Sameer/employee-management-system
+
+
+
+
+(Explanation)
+	Sir, as we know Employees are the backbone of any company and there contribution plays very important role in companies success. By keeping this thought in our mind we have designed one project called Employee Management system. Using this project we can keep a track of each employees information. In this project our employer can add the new employees, can promote the employees, can terminate the employees. And this type of project is best suitable for medium scale companies only. And to develop this project we have taken ReactJS in the frontend, SpringBoot in the backend and to store the data we have taken MySQL database.
+	Sir in the frontend to develop a good components or attractive components we have taken Bootstrap library and to develop single page application we have taken react router library and to do handshake between frontend and backend we have taken axios library. And in backend we have develop all the REST API's with the help of springboot and those API's we have tested in postman tool and to perform persistence logic we have taken spring data JPA to interact with MySQL database 
+
+
+
+Responsibilities:		
+
+* Analyzing the requirement and impact on the other part of the application 
+* Worked closely with product owner in getting the clarification on requirements
+* Designing view layer as per the requirements using React/ReactJS components.
+* Implementing REST API's and their Implementation with Spring Boot framework.
+* Testing the REST API's by using postman tool.
+* Responsible for writing Persistence layer using spring data JPA.
+* Updating application.properties or application.yml files as per configuration.

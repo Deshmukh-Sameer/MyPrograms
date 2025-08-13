@@ -1,0 +1,16 @@
+.bg-color{
+  height: 90vh;
+  background: linear-gradient(cyan,blue);
+}
+
+.footer{
+  position: absolute;
+  bottom:0;
+  text-align:center;
+  width:100%;
+  background-color: #ecf0f1;
+  line-height: 70px;
+  height: 10vh;
+  color: #000;
+  font-weight:bold;
+}
